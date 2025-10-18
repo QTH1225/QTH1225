@@ -1,6 +1,6 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Merriweather&pause=1000&width=435&lines=Welcome+to+my+Github!;Here+is+my+information)
 ## Hi there 
-
+<span>浏览人数：<img src="https://visitor-badge.laobi.icu/badge?page_id=QTH1225"></span>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=QTH1225&show_icons=true&theme=transparent" />
