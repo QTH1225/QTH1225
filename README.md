@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Merriweather&pause=1000&width=435&lines=Welcome+to+my+Github!;Here+is+my+information)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Merriweather&pause=1000&center=true&width=435&lines=Welcome+to+my+Github!;Here+is+my+information)
 ## Hi there 
 <span>浏览人数：<img src="https://visitor-badge.laobi.icu/badge?page_id=QTH1225"></span>
 
@@ -11,7 +11,7 @@
 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=QTH1225&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
-![GitHub Streak](https://streak-stats.demolab.com/?user=QTH1225)
+![GitHub Streak](https://streak-stats.demolab.com/?user=QTH1225&theme=dark)
 
 <!--
 **QTH1225/QTH1225** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
