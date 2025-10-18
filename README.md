@@ -13,6 +13,13 @@ Here is **Qin Tianhao**, you can call me Tianhao. I love programming and reading
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:1340356343@qq.com)
 [![Website](https://img.shields.io/badge/Blog-0088CC?style=for-the-badge&logo=google-chrome&logoColor=white)](https://qintianhao.com)
 
+These are the skills that I know and have mastered:
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-%23ED8B00.svg?style=for-the-badge&logo=mathworks&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![AutoCAD](https://img.shields.io/badge/AutoCAD-%23FF6B35.svg?style=for-the-badge&logo=autocad&logoColor=white)
+
 ### Education Experience
 - Sept 2025-Current: China University of Mining and Technology
 
