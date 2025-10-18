@@ -13,6 +13,8 @@
 
 <span>浏览人数：<img src="https://visitor-badge.laobi.icu/badge?page_id=QTH1225"></span>
 
+<img src="https://count.getloli.com/@QTH1225?theme=moebooru"/>
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=QTH1225&show_icons=true&theme=transparent" />
 </a>
