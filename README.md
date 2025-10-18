@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Merriweather&pause=1000&center=true&width=435&lines=Welcome+to+my+Github!;Here+is+my+information)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Merriweather&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+Tianhao's+GitHub!)](https://git.io/typing-svg)
 ## Hi there 
 <span>浏览人数：<img src="https://visitor-badge.laobi.icu/badge?page_id=QTH1225"></span>
 
