@@ -44,10 +44,8 @@ The number of views of this page is as follows.
 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=QTH1225&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<div align="center">
 ![GitHub Streak](https://streak-stats.demolab.com/?user=QTH1225&theme=dark)
-</div>
+
 
 <!--
 **QTH1225/QTH1225** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
