@@ -1,6 +1,22 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Merriweather&pause=1000&center=true&vCenter=true&width=1000&lines=Welcome+to+Tianhao's+GitHub!)](https://git.io/typing-svg)
-## Hi there 
+## Hello!🙂
+### About Me
+Here is Qin Tianhao, you can call me Tianhao. I love programming and reading. I am currently pursuing a master's degree in structural engineering at China University of Mining and Technology and also trying to write some code.
+
+- 🔭 I’m currently working on new materials for structural engineering and intelligent construction
+- 🌱 I’m currently learning machine learning and deep learning
+- 👯 I would like to collaborate on concrete materials and intelligent construction
+- 📫 How to reach me: 
+- ⚡ Fun fact: New materials and methods in structural engineering
+
+### Education Experience
+- Sept 2025-Current: China University of Mining and Technology
+Mainly conduct research on Concrete materials and cement materials, such as Fiber Reinforced Plastics and Textile Reinforced concrete.
+- Sept 2021-Jun 2025: China University of Mining and Technology ,B.Eng.
+I mainly studied mechanics courses such as Mechanics of Materials and structural mechanics, as well as courses like Principles of Concrete design and Principles of Steel Structure design, and mastered the basic methods of structural design.
+
 ### Blog posts
+Here is my blog. You can find some of my study and thinking records here.
 <!-- BLOG-POST-LIST:START -->
 - [阅读| 提问的艺术](https://qintianhao.com/posts/reading-the-art-of-question/)
 - [Markdown Mermaid](https://qintianhao.com/posts/markdown-mermaid/)
@@ -11,7 +27,7 @@
 
 <picture>  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/QTH1225/QTH1225/output/github-contribution-grid-snake-dark.svg">  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/QTH1225/QTH1225/output/github-contribution-grid-snake.svg">  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/QTH1225/QTH1225/output/github-contribution-grid-snake.svg"> </picture>
 
-本页面的浏览次数如下：
+The number of views of this page is as follows.
 
 <img src="https://count.getloli.com/@QTH1225?theme=moebooru"/>
 
@@ -24,7 +40,10 @@
 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=QTH1225&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<div align="center">
 ![GitHub Streak](https://streak-stats.demolab.com/?user=QTH1225&theme=dark)
+</div>
 
 <!--
 **QTH1225/QTH1225** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
