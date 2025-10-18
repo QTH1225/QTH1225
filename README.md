@@ -7,7 +7,7 @@ Here is **Qin Tianhao**, you can call me Tianhao. I love programming and reading
 - 🌱 I’m currently learning machine learning and deep learning
 - 👯 I would like to collaborate on concrete materials and intelligent construction
 - ⚡ Fun fact: New materials and methods in structural engineering
-- 📫 How to reach me:
+- 📫 The way to reach me:
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/QTH1225)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:1340356343@qq.com)
@@ -15,8 +15,11 @@ Here is **Qin Tianhao**, you can call me Tianhao. I love programming and reading
 
 ### Education Experience
 - Sept 2025-Current: China University of Mining and Technology
+
 Mainly conduct research on Concrete materials and cement materials, such as Fiber Reinforced Plastics and Textile Reinforced concrete.
+
 - Sept 2021-Jun 2025: China University of Mining and Technology ,B.Eng.
+
 I mainly studied mechanics courses such as Mechanics of Materials and structural mechanics, as well as courses like Principles of Concrete design and Principles of Steel Structure design, and mastered the basic methods of structural design.
 
 ### Blog posts
