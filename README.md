@@ -1,8 +1,8 @@
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+Github!;Second+line+of+text)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Merriweather&pause=1000&width=435&lines=Welcome+to+my+Github!;Here+is+my+information)](https://git.io/typing-svg)
 ## Hi there 👋![visitors](https://visitor-badge.glitch.me/badge?page_id=QTH1225&left_color=green&right_color=red)
 ![Tianhao's GitHub stats](https://github-readme-stats.vercel.app/api?username=QTH1225)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QTH1225)
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=QTH1225)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=QTH1225&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=QTH1225)
 
 <!--
