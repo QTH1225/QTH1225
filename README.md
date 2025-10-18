@@ -1,6 +1,9 @@
-## Hi there 👋
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+Github!;Second+line+of+text)
+## Hi there 👋![visitors](https://visitor-badge.glitch.me/badge?page_id=QTH1225&left_color=green&right_color=red)
 ![Tianhao's GitHub stats](https://github-readme-stats.vercel.app/api?username=QTH1225)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QTH1225)
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=QTH1225)
+![GitHub Streak](https://streak-stats.demolab.com/?user=QTH1225)
 
 <!--
 **QTH1225/QTH1225** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
