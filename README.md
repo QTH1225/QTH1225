@@ -2,6 +2,11 @@
 ## Hi there 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [阅读| 提问的艺术](https://qintianhao.com/posts/reading-the-art-of-question/)
+- [Markdown Mermaid](https://qintianhao.com/posts/markdown-mermaid/)
+- [PC软件推荐](https://qintianhao.com/posts/recommand-of-pc-softwares/)
+- [About Me](https://qintianhao.com/posts/about-me/)
+- [Simple Guides for Mizuki](https://qintianhao.com/posts/simple-guides-for-mizuki/)
 <!-- BLOG-POST-LIST:END -->
 
 <picture>  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/QTH1225/QTH1225/output/github-contribution-grid-snake-dark.svg">  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/QTH1225/QTH1225/output/github-contribution-grid-snake.svg">  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/QTH1225/QTH1225/output/github-contribution-grid-snake.svg"> </picture>
