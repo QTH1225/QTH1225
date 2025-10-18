@@ -6,8 +6,11 @@ Here is **Qin Tianhao**, you can call me Tianhao. I love programming and reading
 - 🔭 I’m currently working on new materials for structural engineering and intelligent construction
 - 🌱 I’m currently learning machine learning and deep learning
 - 👯 I would like to collaborate on concrete materials and intelligent construction
-- 📫 How to reach me: [![GitHub](https://img.shields.io/badge/GitHub-QTH1225-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/QTH1225)
 - ⚡ Fun fact: New materials and methods in structural engineering
+- 📫 How to reach me:
+[![GitHub](https://img.shields.io/badge/GitHub-QTH1225-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/QTH1225)
+[![Email](https://img.shields.io/badge/Email-1340356343@qq.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:1340356343@qq.com)
+[![Website](https://img.shields.io/badge/Website-qintianhao.com-0088CC?style=for-the-badge&logo=google-chrome&logoColor=white)](https://qintianhao.com)
 
 ### Education Experience
 - Sept 2025-Current: China University of Mining and Technology
