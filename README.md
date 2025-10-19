@@ -20,6 +20,8 @@ These are the skills that I know and have mastered:
 ![LaTeX](https://img.shields.io/badge/LaTeX-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![AutoCAD](https://img.shields.io/badge/AutoCAD-%23FF6B35.svg?style=for-the-badge&logo=autocad&logoColor=white)
+![Ansys](https://img.shields.io/badge/Ansys-%23FF6B00.svg?style=for-the-badge&logo=ansys&logoColor=white)
+![COMSOL](https://img.shields.io/badge/COMSOL-%23003E96.svg?style=for-the-badge&logo=comsol&logoColor=white)
 
 ### Education Experience
 - Sept 2025-Current: China University of Mining and Technology
