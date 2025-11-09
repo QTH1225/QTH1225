@@ -35,11 +35,11 @@ I mainly studied mechanics courses such as Mechanics of Materials and structural
 ### Blog posts
 Here is my blog. You can find some of my study and thinking records here.
 <!-- BLOG-POST-LIST:START -->
+- [Obsidian×Mizuki博客发布流程](https://qintianhao.com/posts/obsidianmizuki/)
 - [试验|水工碾压混凝土含气量测定](https://qintianhao.com/posts/experiment-rcc-aircontent/)
 - [Github Profile的配置](https://qintianhao.com/posts/github-profile/)
 - [阅读| 提问的艺术](https://qintianhao.com/posts/reading-the-art-of-question/)
 - [Markdown Mermaid](https://qintianhao.com/posts/markdown-mermaid/)
-- [PC软件推荐](https://qintianhao.com/posts/recommand-of-pc-softwares/)
 <!-- BLOG-POST-LIST:END -->
 
 <picture>  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/QTH1225/QTH1225/output/github-contribution-grid-snake-dark.svg">  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/QTH1225/QTH1225/output/github-contribution-grid-snake.svg">  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/QTH1225/QTH1225/output/github-contribution-grid-snake.svg"> </picture>
