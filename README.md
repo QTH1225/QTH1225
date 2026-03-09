@@ -35,11 +35,11 @@ I mainly studied mechanics courses such as Mechanics of Materials and structural
 ### Blog posts
 Here is my blog. You can find some of my study and thinking records here.
 <!-- BLOG-POST-LIST:START -->
+- [Zotero插件详细指南](https://qintianhao.com/posts/zotero-plugins/)
 - [23岁|保持好奇心的尝试与前行](https://qintianhao.com/posts/23-birthday/)
 - [AI|文生图模型中的提示词&lpar;持续更新&rpar;](https://qintianhao.com/posts/prompt-engineer/)
 - [基于easyMCM的美赛LaTeX模板](https://qintianhao.com/posts/latex-mcm-template/)
 - [弹塑性力学|张量分析初步](https://qintianhao.com/posts/elastoplastic-mechanics-2/)
-- [Obsidian×Mizuki博客发布流程](https://qintianhao.com/posts/obsidianmizuki/)
 <!-- BLOG-POST-LIST:END -->
 
 <picture>  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/QTH1225/QTH1225/output/github-contribution-grid-snake-dark.svg">  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/QTH1225/QTH1225/output/github-contribution-grid-snake.svg">  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/QTH1225/QTH1225/output/github-contribution-grid-snake.svg"> </picture>
