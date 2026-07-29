@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Merriweather&pause=1000&center=true&vCenter=true&width=1000&lines=Welcome+to+Tianhao's+GitHub!)](https://git.io/typing-svg)
 ## Hello!🙂
 ### About Me
-Here is **Qin Tianhao**, you can call me Tianhao. I love programming and reading. I am currently pursuing a master's degree in structural engineering at China University of Mining and Technology and also trying to write some code.
+Here is **Qin Tianhao（秦天浩，Yana）**, you can call me Tianhao. I love programming and reading. I am currently pursuing a master's degree in structural engineering at China University of Mining and Technology and also trying to write some code.
 
 - 🔭 I’m currently working on new materials for structural engineering and intelligent construction
 - 🌱 I’m currently learning machine learning and deep learning
