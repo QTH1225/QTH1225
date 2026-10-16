@@ -16,11 +16,11 @@ Here is **Qin Tianhao**, you can call me Yana.  I am currently pursuing a master
 ### Blog posts
 Here is my blog. You can find some of my study and thinking records here.
 <!-- BLOG-POST-LIST:START -->
-- [Zotero插件详细指南](https://qintianhao.com/posts/zotero-plugins/)
-- [23岁|保持好奇心的尝试与前行](https://qintianhao.com/posts/23-birthday/)
-- [AI|文生图模型中的提示词&lpar;持续更新&rpar;](https://qintianhao.com/posts/prompt-engineer/)
-- [基于easyMCM的美赛LaTeX模板](https://qintianhao.com/posts/latex-mcm-template/)
-- [弹塑性力学|张量分析初步](https://qintianhao.com/posts/elastoplastic-mechanics-2/)
+- [文档工程介绍与写法](https://tianhao.blog/01code/doc-engineering)
+- [建立一份文档工程](https://tianhao.blog/01code/doc-project)
+- [Harness Engineering 全景解读](https://tianhao.blog/01code/harness-engineering)
+- [建筑图绘制笔记](https://tianhao.blog/02engineering/structure/drawing-notes)
+- [剪力墙布置要求](https://tianhao.blog/02engineering/structure/shear-wall-layout)
 <!-- BLOG-POST-LIST:END -->
 
 <picture>  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/QTH1225/QTH1225/output/github-contribution-grid-snake-dark.svg">  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/QTH1225/QTH1225/output/github-contribution-grid-snake.svg">  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/QTH1225/QTH1225/output/github-contribution-grid-snake.svg"> </picture>
