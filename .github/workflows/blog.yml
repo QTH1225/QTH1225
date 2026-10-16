@@ -16,4 +16,6 @@ jobs:
       - name: Pull in blog's posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://tianhao.blog/rss.xml"
+          feed_list: "https://tianhao.blog/index.xml"
+          max_post_count: 5
+          readme_path: "./README.md"
