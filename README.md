@@ -13,15 +13,6 @@ Here is **Qin Tianhao**, you can call me Yana.  I am currently pursuing a master
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:1340356343@qq.com)
 [![Website](https://img.shields.io/badge/Blog-0088CC?style=for-the-badge&logo=google-chrome&logoColor=white)](https://qintianhao.com)
 
-### Education Experience
-- Sept 2025-Current: China University of Mining and Technology
-
-Mainly conduct research on Concrete materials and cement materials, such as Fiber Reinforced Plastics and Textile Reinforced concrete.
-
-- Sept 2021-Jun 2025: China University of Mining and Technology ,B.Eng.
-
-I mainly studied mechanics courses such as Mechanics of Materials and structural mechanics, as well as courses like Principles of Concrete design and Principles of Steel Structure design, and mastered the basic methods of structural design.
-
 ### Blog posts
 Here is my blog. You can find some of my study and thinking records here.
 <!-- BLOG-POST-LIST:START -->
