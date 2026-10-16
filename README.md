@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Merriweather&pause=1000&center=true&vCenter=true&width=1000&lines=Welcome+to+Tianhao's+GitHub!)](https://git.io/typing-svg)
 ## Hello!🙂
 ### About Me
-Here is **Qin Tianhao**, you can call me Tianhao. I love programming and reading. I am currently pursuing a master's degree in structural engineering at China University of Mining and Technology and also trying to write some code.
+Here is **Qin Tianhao**, you can call me Yana.  I am currently pursuing a master's degree in **structural engineering** at China University of Mining and Technology（CUMT） and also trying to write some code.
 
 - 🔭 I’m currently working on new materials for structural engineering and intelligent construction
 - 🌱 I’m currently learning machine learning and deep learning
@@ -13,14 +13,7 @@ Here is **Qin Tianhao**, you can call me Tianhao. I love programming and reading
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:1340356343@qq.com)
 [![Website](https://img.shields.io/badge/Blog-0088CC?style=for-the-badge&logo=google-chrome&logoColor=white)](https://qintianhao.com)
 
-### Education Experience
-- Sept 2025-Current: China University of Mining and Technology
 
-Mainly conduct research on Concrete materials and cement materials, such as Fiber Reinforced Plastics and Textile Reinforced concrete.
-
-- Sept 2021-Jun 2025: China University of Mining and Technology ,B.Eng.
-
-I mainly studied mechanics courses such as Mechanics of Materials and structural mechanics, as well as courses like Principles of Concrete design and Principles of Steel Structure design, and mastered the basic methods of structural design.
 
 ### Blog posts
 Here is my blog. You can find some of my study and thinking records here.
