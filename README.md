@@ -13,16 +13,23 @@ Here is **Qin Tianhao**, you can call me Yana.  I am currently pursuing a master
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:1340356343@qq.com)
 [![Website](https://img.shields.io/badge/Blog-0088CC?style=for-the-badge&logo=google-chrome&logoColor=white)](https://qintianhao.com)
 
+### Education Experience
+- Sept 2025-Current: China University of Mining and Technology
 
+Mainly conduct research on Concrete materials and cement materials, such as Fiber Reinforced Plastics and Textile Reinforced concrete.
+
+- Sept 2021-Jun 2025: China University of Mining and Technology ,B.Eng.
+
+I mainly studied mechanics courses such as Mechanics of Materials and structural mechanics, as well as courses like Principles of Concrete design and Principles of Steel Structure design, and mastered the basic methods of structural design.
 
 ### Blog posts
 Here is my blog. You can find some of my study and thinking records here.
 <!-- BLOG-POST-LIST:START -->
-- [阅读| 提问的艺术](https://qintianhao.com/posts/reading-the-art-of-question/)
-- [Markdown Mermaid](https://qintianhao.com/posts/markdown-mermaid/)
-- [PC软件推荐](https://qintianhao.com/posts/recommand-of-pc-softwares/)
-- [About Me](https://qintianhao.com/posts/about-me/)
-- [Simple Guides for Mizuki](https://qintianhao.com/posts/simple-guides-for-mizuki/)
+- [Zotero插件详细指南](https://qintianhao.com/posts/zotero-plugins/)
+- [23岁|保持好奇心的尝试与前行](https://qintianhao.com/posts/23-birthday/)
+- [AI|文生图模型中的提示词&lpar;持续更新&rpar;](https://qintianhao.com/posts/prompt-engineer/)
+- [基于easyMCM的美赛LaTeX模板](https://qintianhao.com/posts/latex-mcm-template/)
+- [弹塑性力学|张量分析初步](https://qintianhao.com/posts/elastoplastic-mechanics-2/)
 <!-- BLOG-POST-LIST:END -->
 
 <picture>  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/QTH1225/QTH1225/output/github-contribution-grid-snake-dark.svg">  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/QTH1225/QTH1225/output/github-contribution-grid-snake.svg">  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/QTH1225/QTH1225/output/github-contribution-grid-snake.svg"> </picture>
@@ -40,7 +47,6 @@ The number of views of this page is as follows.
 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=QTH1225&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
-![GitHub Streak](https://streak-stats.demolab.com/?user=QTH1225&theme=dark)
 
 
 <!--
