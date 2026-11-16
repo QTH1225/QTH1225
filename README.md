@@ -19,8 +19,8 @@ Here is my blog. You can find some of my study and thinking records here.
 - [文档工程介绍与写法](https://tianhao.blog/01code/doc-engineering)
 - [建立一份文档工程](https://tianhao.blog/01code/doc-project)
 - [Harness Engineering 全景解读](https://tianhao.blog/01code/harness-engineering)
-- [建筑图绘制笔记](https://tianhao.blog/02engineering/structure/drawing-notes)
-- [剪力墙布置要求](https://tianhao.blog/02engineering/structure/shear-wall-layout)
+- [AI时代的思考](https://tianhao.blog/04blog/reflections-on-the-ai-era)
+- [寓言故事|墓中珍宝](https://tianhao.blog/04blog/treasure-in-the-tomb)
 <!-- BLOG-POST-LIST:END -->
 
 <picture>  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/QTH1225/QTH1225/output/github-contribution-grid-snake-dark.svg">  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/QTH1225/QTH1225/output/github-contribution-grid-snake.svg">  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/QTH1225/QTH1225/output/github-contribution-grid-snake.svg"> </picture>
